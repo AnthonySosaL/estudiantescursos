@@ -1,0 +1,27 @@
+# Estructura del Proyecto y Comandos CMD
+
+## Estructura dibujada actual:
+
+estructura.txt
+README.md
+paginawebcursosvender
+│
+├── front
+├── back
+│
+
+Este archivo sirve como guía para la estructura de carpetas y los comandos CMD utilizados para navegar y crear carpetas en el proyecto. Actualízalo cada vez que se agregue o modifique una carpeta.
+
+---
+
+## Comandos útiles:
+- Para moverse a la carpeta principal del proyecto:
+  cd .\paginawebcursosvender\
+- Para crear una carpeta:
+  mkdir "nombre"
+- Para mover un archivo a la carpeta raíz del proyecto:
+  move .\estructura.txt ..
+- Solo se permite realizar una acción a la vez.
+
+
+
