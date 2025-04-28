@@ -4,11 +4,43 @@
 
 estructura.txt
 README.md
-paginawebcursosvender
+paginawebcursosvender/
 │
-├── front
-├── back
-│
+├── front/
+├── back/
+│   └── futurecourses-backend/
+│       ├── build.gradle
+│       ├── gradlew
+│       ├── gradlew.bat
+│       ├── HELP.md
+│       ├── settings.gradle
+│       ├── build/
+│       │   ├── classes/
+│       │   │   ├── java/
+│       │   │   │   ├── main/
+│       │   │   │   └── test/
+│       │   └── resources/
+│       │       ├── main/
+│       │       └── test/
+│       ├── gradle/
+│       │   └── wrapper/
+│       │       ├── gradle-wrapper.jar
+│       │       └── gradle-wrapper.properties
+│       └── src/
+│           ├── main/
+│           │   ├── java/
+│           │   │   └── com/
+│           │   │       └── futurewise/
+│           │   │           └── futurecourses_backend/
+│           │   │               └── FuturecoursesBackendApplication.java
+│           │   └── resources/
+│           │       └── application.properties
+│           └── test/
+│               └── java/
+│                   └── com/
+│                       └── futurewise/
+│                           └── futurecourses_backend/
+│                               └── FuturecoursesBackendApplicationTests.java
 
 Este archivo sirve como guía para la estructura de carpetas y los comandos CMD utilizados para navegar y crear carpetas en el proyecto. Actualízalo cada vez que se agregue o modifique una carpeta.
 
